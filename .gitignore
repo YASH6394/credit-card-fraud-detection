@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets
+data/*.csv
+
+# Model artifacts
+models/*.pkl
+
+# Generated reports
+reports/*.png
+reports/*.csv
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
