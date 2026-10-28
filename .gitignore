@@ -12,11 +12,10 @@ venv/
 # Local datasets
 data/*.csv
 
-# Model artifacts
-models/*.pkl
+
 
 # Generated reports
-reports/*.png
+
 reports/*.csv
 
 # Environment variables
